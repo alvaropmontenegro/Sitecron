@@ -5,7 +5,7 @@
         "includes": [
             {
                 "path": "/sitecore/templates/Modules/Sitecron",
-                "name": "Sitecron-Templates",
+                "name": "SiteCron-Templates",
                 "scope": "ItemAndDescendants",
                 "database": "master",
                 "allowedpushoperations": "CreateUpdateAndDelete"
@@ -15,6 +15,20 @@
                 "name": "SiteCron-Execute-Job-Now",
                 "scope": "SingleItem",
                 "database": "core",
+                "allowedpushoperations": "CreateUpdateAndDelete"
+            },
+            {
+                "path": "/sitecore/system/Modules/PowerShell/Script Library/Sitecron",
+                "name": "SiteCron-Spe",
+                "scope": "ItemAndDescendants",
+                "database": "master",
+                "allowedpushoperations": "CreateUpdateAndDelete"
+            },
+            {
+                "path": "/sitecore/system/Modules/Sitecron",
+                "name": "SiteCron-Module",
+                "scope": "ItemAndDescendants",
+                "database": "master",
                 "allowedpushoperations": "CreateUpdateAndDelete"
             },
             {

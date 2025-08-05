@@ -1,22 +1,40 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports.yml
-ID: "bfdf040b-05fd-4b4d-971c-5b1d66aa5085"
-Parent: "08477468-d438-43d4-9d6a-6d84a611971c"
-Template: "0dea17e8-b084-414d-b1cd-764602c58eae"
-Path: /sitecore/system/Modules/SiteCron Reports
-Signature: GenzRkVryDVzMKTOhxQl99FuxOjJb1Id7YwP/QkNMMg=
-Modified: 638899545711270274
+  c:\Projects\sitecron\serialization\SiteCron-Reports\D03FEE17210BAE98\Execute PowerShell Script Wednesday August 06 2025 00 25 00 1238.yml
+ID: "37f41936-a81a-4a40-8ebc-1706d6b40f35"
+Parent: "b3e21296-feb0-44cd-8f3f-fc5ef38adc7f"
+Template: "f8e58f37-9bf0-4b71-b562-4b21973cf6e7"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23/25/Execute PowerShell Script Wednesday August 06 2025 00 25 00 1238
+Signature: Qba+Sg745dM12pNY2+/oF6OLomcfK9SY+vsir7m9FVQ=
+Modified: 638900336341202762
 ---
 File: |
-  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports.yml
-ID: "e62862b1-03df-4752-a290-9b505806c515"
-Parent: "18a47a1f-944e-418a-8d36-4dd59bea262c"
-Template: "3363f60e-3756-4241-9a16-40386f6a3f46"
-Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports
-Signature: gBjmiud4VOU5GbbCcHbVjFNOu+1vRAHckwIdalsHHaU=
-Modified: 638899545711295318
+  c:\Projects\sitecron\serialization\SiteCron-Reports\50164F9A9E3D8A51\Execute PowerShell Script Wednesday August 06 2025 00 20 00 1246.yml
+ID: "8affb5c0-9737-46cf-b0f7-6d75dbdf3e5f"
+Parent: "480865b9-58dc-4d16-89dd-df37f11e7fda"
+Template: "f8e58f37-9bf0-4b71-b562-4b21973cf6e7"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23/20/Execute PowerShell Script Wednesday August 06 2025 00 20 00 1246
+Signature: oGL7dIodUR5mCLSguitgFgwwmwmr3cS7pyq0CUPqbRE=
+Modified: 638900336341187736
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports\2025\08\05\23\25.yml
+ID: "b3e21296-feb0-44cd-8f3f-fc5ef38adc7f"
+Parent: "33d052dc-1b95-4ad6-bcd6-f60148b6d39f"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23/25
+Signature: ePEdvpGobbH8GT6UukkYJVCxu1+Ylr7KD6sPvd0X5rE=
+Modified: 638900336341132742
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\C3E658A65A4E7E7B\Execute PowerShell Script Wednesday August 06 2025 00 15 00 1139.yml
+ID: "6fa6a56e-408e-44b8-bbdb-9e3213448528"
+Parent: "2bb8c370-73be-42bc-9e6d-07bacab6adef"
+Template: "f8e58f37-9bf0-4b71-b562-4b21973cf6e7"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23/15/Execute PowerShell Script Wednesday August 06 2025 00 15 00 1139
+Signature: ms8dpQwsmCNop3ywBam6fv0bFRM4JDaj7QPmbtJ4Qes=
+Modified: 638900336341177747
 ---
 File: |
   c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB.yml
@@ -25,4 +43,112 @@ Parent: "bfdf040b-05fd-4b4d-971c-5b1d66aa5085"
 Template: "0dea17e8-b084-414d-b1cd-764602c58eae"
 Path: /sitecore/system/Modules/SiteCron Reports/OOTB
 Signature: qjoBXkFrxA2SncnfpmPz5hWtq5SqBAELWYMV+tykBJ4=
-Modified: 638899545711280249
+Modified: 638900336341047721
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\8B953379B1CC2ACA\Execute PowerShell Script Wednesday August 06 2025 00 30 00 1609.yml
+ID: "f6f4d215-8989-4f5f-9a84-d36ba1fce5cc"
+Parent: "3b427504-8735-4eea-ab7b-1e5595897d13"
+Template: "f8e58f37-9bf0-4b71-b562-4b21973cf6e7"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23/30/Execute PowerShell Script Wednesday August 06 2025 00 30 00 1609
+Signature: YVT7FB3FWJbLR9NaRc1jmR5BYF1a9Mj94VzAId4cGhQ=
+Modified: 638900336341217734
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports\2025\08\05\23\30.yml
+ID: "3b427504-8735-4eea-ab7b-1e5595897d13"
+Parent: "33d052dc-1b95-4ad6-bcd6-f60148b6d39f"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23/30
+Signature: Kz4mGnTfiFL2wBvvS1FsLdlTF//P/ANMe2okueehUvw=
+Modified: 638900336341142730
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports.yml
+ID: "e62862b1-03df-4752-a290-9b505806c515"
+Parent: "18a47a1f-944e-418a-8d36-4dd59bea262c"
+Template: "3363f60e-3756-4241-9a16-40386f6a3f46"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports
+Signature: gBjmiud4VOU5GbbCcHbVjFNOu+1vRAHckwIdalsHHaU=
+Modified: 638900336341062742
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports\2025.yml
+ID: "381a4314-c728-4afd-a356-0cdf44670103"
+Parent: "e62862b1-03df-4752-a290-9b505806c515"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025
+Signature: XR0fX7OHU+FrVf09/yb9UycTJOwOcR1gD7z+BdWxxHs=
+Modified: 638900336341072725
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports\2025\08.yml
+ID: "b0708026-c501-4932-9e2e-92216ec43183"
+Parent: "381a4314-c728-4afd-a356-0cdf44670103"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08
+Signature: XR0fX7OHU+FrVf09/yb9UycTJOwOcR1gD7z+BdWxxHs=
+Modified: 638900336341082834
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports\2025\08\05.yml
+ID: "3803d5b3-8a98-4fd4-a052-1c415d1f6c51"
+Parent: "b0708026-c501-4932-9e2e-92216ec43183"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05
+Signature: XR0fX7OHU+FrVf09/yb9UycTJOwOcR1gD7z+BdWxxHs=
+Modified: 638900336341092730
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports.yml
+ID: "bfdf040b-05fd-4b4d-971c-5b1d66aa5085"
+Parent: "08477468-d438-43d4-9d6a-6d84a611971c"
+Template: "0dea17e8-b084-414d-b1cd-764602c58eae"
+Path: /sitecore/system/Modules/SiteCron Reports
+Signature: GenzRkVryDVzMKTOhxQl99FuxOjJb1Id7YwP/QkNMMg=
+Modified: 638900336341037729
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports\2025\08\05\23.yml
+ID: "33d052dc-1b95-4ad6-bcd6-f60148b6d39f"
+Parent: "3803d5b3-8a98-4fd4-a052-1c415d1f6c51"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23
+Signature: XR0fX7OHU+FrVf09/yb9UycTJOwOcR1gD7z+BdWxxHs=
+Modified: 638900336341102727
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports\2025\08\05\23\10.yml
+ID: "e83e3665-277e-4d92-955b-08ca85351e28"
+Parent: "33d052dc-1b95-4ad6-bcd6-f60148b6d39f"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23/10
+Signature: XR0fX7OHU+FrVf09/yb9UycTJOwOcR1gD7z+BdWxxHs=
+Modified: 638900336341112744
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports\2025\08\05\23\20.yml
+ID: "480865b9-58dc-4d16-89dd-df37f11e7fda"
+Parent: "33d052dc-1b95-4ad6-bcd6-f60148b6d39f"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23/20
+Signature: aZJyyua9iUwCMyDaBcd9K1A69TbwRsOxG6Cz4iIih1E=
+Modified: 638900336341127747
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\2B65F6A2085186FF\Execute PowerShell Script Wednesday August 06 2025 00 10 03 2227.yml
+ID: "7fd8bb76-322d-4aa1-ba5a-e75c9ab37b0b"
+Parent: "e83e3665-277e-4d92-955b-08ca85351e28"
+Template: "f8e58f37-9bf0-4b71-b562-4b21973cf6e7"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23/10/Execute PowerShell Script Wednesday August 06 2025 00 10 03 2227
+Signature: 4U1Zfl1zmOxVlKDrfzf/igO+jOeVvaqf4PloeU8+EvU=
+Modified: 638900336341162740
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports\2025\08\05\23\15.yml
+ID: "2bb8c370-73be-42bc-9e6d-07bacab6adef"
+Parent: "33d052dc-1b95-4ad6-bcd6-f60148b6d39f"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports/2025/08/05/23/15
+Signature: cWegpcu7NyRyioOJFO9c365rBppSFlJk2XNnOtyqlgY=
+Modified: 638900336341117742

@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Spe\Sitecron\Cleanup\Delete SiteCron Execution Reports Older than x Days.yml
+ID: "dec250eb-ab39-4305-809c-8b8e95037fd1"
+Parent: "3ba89ab1-60ec-43f2-8e44-110bde71db4c"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Sitecron/Cleanup/Delete SiteCron Execution Reports Older than x Days
+Signature: YzMl+VirBETYON0/ahQn5GFABEVrDKZJg1MRviaeeoI=
+Modified: 638900336340742743
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Spe\Sitecron\Sample.yml
+ID: "df82f768-5246-470c-aeb9-14633c2e8496"
+Parent: "c0c88297-790f-4c94-a0ac-633903bf5e85"
+Template: "ab154d3d-1126-4ab4-ac21-8b86e6bd70ea"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Sitecron/Sample
+Signature: jikeug0e7CGqE2Uu6x+6diuwtJa5+AMwLZa3P4+mGhs=
+Modified: 638900336340727752
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Spe\Sitecron\Sample\Write to Log.yml
+ID: "3de95f89-4aeb-46fb-9f83-1ad0d8d2a3f0"
+Parent: "df82f768-5246-470c-aeb9-14633c2e8496"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Sitecron/Sample/Write to Log
+Signature: 4fGT5L+JWqjPaOfpwzJl88dLZkRdp1iZCWzjM9bTdZg=
+Modified: 638900336340757765
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Spe\Sitecron.yml
+ID: "c0c88297-790f-4c94-a0ac-633903bf5e85"
+Parent: "a3572733-5062-43e9-a447-54698bc1c637"
+Template: "6d82fcd8-c379-443c-97a9-c6423c71e7d5"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Sitecron
+Signature: +MDWTXODEBkXwzjcCTBppL37dfrxGr/vF6q3CAW4oS4=
+Modified: 638900336340702750
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Spe\Sitecron\Cleanup.yml
+ID: "3ba89ab1-60ec-43f2-8e44-110bde71db4c"
+Parent: "c0c88297-790f-4c94-a0ac-633903bf5e85"
+Template: "ab154d3d-1126-4ab4-ac21-8b86e6bd70ea"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Sitecron/Cleanup
+Signature: c2CgRByCBAxU8DYf/a27y5No0RWUOpetycg2h2m1qlY=
+Modified: 638900336340717746
