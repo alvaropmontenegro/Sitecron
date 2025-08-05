@@ -1,0 +1,28 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports.yml
+ID: "bfdf040b-05fd-4b4d-971c-5b1d66aa5085"
+Parent: "08477468-d438-43d4-9d6a-6d84a611971c"
+Template: "0dea17e8-b084-414d-b1cd-764602c58eae"
+Path: /sitecore/system/Modules/SiteCron Reports
+Signature: GenzRkVryDVzMKTOhxQl99FuxOjJb1Id7YwP/QkNMMg=
+Modified: 638899545711270274
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB\SiteCron Execution Reports.yml
+ID: "e62862b1-03df-4752-a290-9b505806c515"
+Parent: "18a47a1f-944e-418a-8d36-4dd59bea262c"
+Template: "3363f60e-3756-4241-9a16-40386f6a3f46"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB/SiteCron Execution Reports
+Signature: gBjmiud4VOU5GbbCcHbVjFNOu+1vRAHckwIdalsHHaU=
+Modified: 638899545711295318
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Reports\SiteCron Reports\OOTB.yml
+ID: "18a47a1f-944e-418a-8d36-4dd59bea262c"
+Parent: "bfdf040b-05fd-4b4d-971c-5b1d66aa5085"
+Template: "0dea17e8-b084-414d-b1cd-764602c58eae"
+Path: /sitecore/system/Modules/SiteCron Reports/OOTB
+Signature: qjoBXkFrxA2SncnfpmPz5hWtq5SqBAELWYMV+tykBJ4=
+Modified: 638899545711280249
