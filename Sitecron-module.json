@@ -1,0 +1,43 @@
+{
+    "namespace": "Sitecron",
+    "description": "Sitecron Module Items",
+    "items": {
+        "includes": [
+            {
+                "path": "/sitecore/templates/Modules/Sitecron",
+                "name": "SiteCron-Templates",
+                "scope": "ItemAndDescendants",
+                "database": "master",
+                "allowedpushoperations": "CreateUpdateAndDelete"
+            },
+            {
+                "path": "/sitecore/content/Applications/Content Editor/Context Menues/Default/Execute SiteCron Job Now",
+                "name": "SiteCron-Execute-Job-Now",
+                "scope": "SingleItem",
+                "database": "core",
+                "allowedpushoperations": "CreateUpdateAndDelete"
+            },
+            {
+                "path": "/sitecore/system/Modules/PowerShell/Script Library/Sitecron",
+                "name": "SiteCron-Spe",
+                "scope": "ItemAndDescendants",
+                "database": "master",
+                "allowedpushoperations": "CreateUpdateAndDelete"
+            },
+            {
+                "path": "/sitecore/system/Modules/Sitecron",
+                "name": "SiteCron-Module",
+                "scope": "ItemAndDescendants",
+                "database": "master",
+                "allowedpushoperations": "CreateUpdateAndDelete"
+            },
+            {
+                "path": "/sitecore/system/Modules/SiteCron Reports",
+                "name": "SiteCron-Reports",
+                "scope": "ItemAndDescendants",
+                "database": "master",
+                "allowedpushoperations": "CreateUpdateAndDelete"
+            }
+        ]
+    }
+}

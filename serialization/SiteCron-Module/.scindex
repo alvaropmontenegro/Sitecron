@@ -1,0 +1,82 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Module\Sitecron\OOTB\SiteCron Sitecore Schedule Command Job.yml
+ID: "29c8a57e-2f18-4391-9641-1a4258073e8e"
+Parent: "94bec554-6aba-4588-a4e0-3daf88b27542"
+Template: "b9b437b2-789c-48f6-aae2-b49c4aa2a4bb"
+Path: /sitecore/system/Modules/Sitecron/OOTB/SiteCron Sitecore Schedule Command Job
+Signature: ordrXtIeMuk0MhHq1+rb5nAC1U0XFmHih/n5MyrkZz0=
+Modified: 638900336341002793
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Module\Sitecron.yml
+ID: "c9addae6-2298-49f2-8c9e-920a24d3d6d9"
+Parent: "08477468-d438-43d4-9d6a-6d84a611971c"
+Template: "0dea17e8-b084-414d-b1cd-764602c58eae"
+Path: /sitecore/system/Modules/Sitecron
+Signature: rH8sHmadPZ8buBXE57qxjpdkzBzARWwvltbWu7Zb7UY=
+Modified: 638900336340772761
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Module\D92D3A437373F898\Cleanup - Delete SiteCron Execution Reports Older than 200 days - Execute PowerShell Script.yml
+ID: "580d3166-f0d8-4b86-900f-a8c8f04ccdc6"
+Parent: "8fa7beda-4c1a-44fe-88bf-c1a902317201"
+Template: "7f2c8881-6ae4-48cf-a499-7745cc4b2eb2"
+Path: "/sitecore/system/Modules/Sitecron/OOTB/Cleanup/Cleanup - Delete SiteCron Execution Reports Older than 200 days - Execute PowerShell Script"
+Signature: qpTZ3q5DlyXWwweURbIG3I6FoYtcILX1Nu00iUWZEKI=
+Modified: 638900336341027750
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Module\Sitecron\OOTB.yml
+ID: "94bec554-6aba-4588-a4e0-3daf88b27542"
+Parent: "c9addae6-2298-49f2-8c9e-920a24d3d6d9"
+Template: "0dea17e8-b084-414d-b1cd-764602c58eae"
+Path: /sitecore/system/Modules/Sitecron/OOTB
+Signature: Xkgbloa85RcJ2S6Pofbuw54z/VsDkBWX3xpW60PfPfA=
+Modified: 638900336340787735
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Module\Sitecron\OOTB\Execute PowerShell Script.yml
+ID: "b06fa5e6-85b4-45f6-bdce-05bf1f5a39ba"
+Parent: "94bec554-6aba-4588-a4e0-3daf88b27542"
+Template: "7f2c8881-6ae4-48cf-a499-7745cc4b2eb2"
+Path: /sitecore/system/Modules/Sitecron/OOTB/Execute PowerShell Script
+Signature: jpdE23Qkh/CZm0xQTaTKmbQ7DtmE1SAbPSt5Rf5+FqQ=
+Modified: 638900336340842805
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Module\Sitecron\OOTB\Cleanup.yml
+ID: "8fa7beda-4c1a-44fe-88bf-c1a902317201"
+Parent: "94bec554-6aba-4588-a4e0-3daf88b27542"
+Template: "0dea17e8-b084-414d-b1cd-764602c58eae"
+Path: /sitecore/system/Modules/Sitecron/OOTB/Cleanup
+Signature: qKESsBi4slpXe7GzYMsGjyfpUM+7eQm5TRsPiMC71jQ=
+Modified: 638900336340812742
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Module\Sitecron\OOTB\SiteCron Run As Sitecore Job.yml
+ID: "f61fab62-a123-4242-8b23-bfb5677dfa95"
+Parent: "94bec554-6aba-4588-a4e0-3daf88b27542"
+Template: "49a27dc8-2a6a-48a2-a8ef-02a3dd0d3274"
+Path: /sitecore/system/Modules/Sitecron/OOTB/SiteCron Run As Sitecore Job
+Signature: B8T/5Yb3hiiZOYK1WQm3Wl7ojWmUedmvT8B0eT4Orc0=
+Modified: 638900336340992800
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Module\Sitecron\OOTB\Auto.yml
+ID: "462cf67d-13c6-4e28-b0ae-709e29e01a71"
+Parent: "94bec554-6aba-4588-a4e0-3daf88b27542"
+Template: "0dea17e8-b084-414d-b1cd-764602c58eae"
+Path: /sitecore/system/Modules/Sitecron/OOTB/Auto
+Signature: aUoLUkPCcb3ZiavZNRd7H5HfV50X/jxC+81WZjy/4KM=
+Modified: 638900336340802768
+---
+File: |
+  c:\Projects\sitecron\serialization\SiteCron-Module\Sitecron\OOTB\Site Smart Publish.yml
+ID: "f0710c13-8506-4bc1-8d57-02ae50746d1e"
+Parent: "94bec554-6aba-4588-a4e0-3daf88b27542"
+Template: "7f2c8881-6ae4-48cf-a499-7745cc4b2eb2"
+Path: /sitecore/system/Modules/Sitecron/OOTB/Site Smart Publish
+Signature: bUHiKoW9gGkZhJg8UHtrkljYnXpnMATVZbC1KP7L8ng=
+Modified: 638900336340857762

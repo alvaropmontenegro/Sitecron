@@ -260,6 +260,8 @@ paket-files/
 
 # Sitecore -----------------------------
 *.nupkg
+.sitecore
+.vscode
 
 # Visual Studio 
 **/*.sln.ide
