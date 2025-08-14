@@ -237,6 +237,8 @@
     </Content>
     <None Include="App_Config\Include\Z.SiteCron\zSiteCron.Azure.config.disabled" />
     <Content Include="web.config" />
+    <Content Include="App_Data\items\core\items.core.Sitecron.dat" />
+    <Content Include="App_Data\items\master\items.master.Sitecron.dat" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
